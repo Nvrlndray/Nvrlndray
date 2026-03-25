@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/53/0f/54/530f54df182e57eb71a0bc0fb3243d64.jpg"  />
+</div>
 
-<!--
-**Nvrlndray/Nvrlndray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺<br><br>⚞ HAI i am Ray-Keith ! ⚟ <br><br>erm i don't really know what to put here<br><br>check out my strawpage in the links !<br><br>( ̷ ̷^⩊^ ̷ ̷)<br><br>⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/1200x/ca/31/73/ca317354d26d97e00ba7807acf7bd1d8.jpg"  />
+</div>
+
+###
