@@ -9,6 +9,14 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/smhnmzipseab4pybuqav7m93y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smhnmzipseab4pybuqav7m93y&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://i.pinimg.com/1200x/ca/31/73/ca317354d26d97e00ba7807acf7bd1d8.jpg"  />
 </div>
 
