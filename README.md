@@ -4,13 +4,13 @@
 
 ###
 
-<p align="center">⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺<br><br>⚞ HAI i am Ray-Keith ! ⚟ <br><br>erm i don't really know what to put here<br><br>check out my strawpage in the links !<br><br>( ̷ ̷^⩊^ ̷ ̷)<br><br>⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺</p>
+<p align="center">⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺<br><br>⚞ HAI i am Ray-Keith ! ⚟ <br><br>erm i don't really know what to put here<br><br>check out my strawpage in the links ! <br><br>send me gimmicks ! it can be anything i will love it no matter what it is !<br><br>( ̷ ̷^⩊^ ̷ ̷)<br><br>⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺</p>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/smhnmzipseab4pybuqav7m93y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smhnmzipseab4pybuqav7m93y&count=3" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smhnmzipseab4pybuqav7m93y&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
