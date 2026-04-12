@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nvrlndray.Nvrlndray&left_color=black&right_color=black&left_text=vistors%20%3C3"  />
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://i.pinimg.com/736x/53/0f/54/530f54df182e57eb71a0bc0fb3243d64.jpg"  />
 </div>
 
