@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺<br><br>⚞ HAI i am Ray-Keith ! ⚟ <br><br>erm i don't really know what to put here<br><br>check out my strawpage in the links ! <br><br>send me gimmicks ! it can be anything i will love it no matter what it is !<br><br>( ̷ ̷^⩊^ ̷ ̷)<br><br>⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺</p>
+<p align="center">⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺<br><br>⚞ HAI i am Ray-Keith ! ⚟ <br><br>erm i don't really know what to put here<br><br>check out my strawpage/Ata book in the links ! <br><br>send me gimmicks ! it can be anything i will love it no matter what it is !<br><br>( ̷ ̷^⩊^ ̷ ̷)<br><br>⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺</p>
 
 ###
 
