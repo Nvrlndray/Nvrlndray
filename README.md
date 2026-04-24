@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nvrlndray.Nvrlndray&left_color=black&right_color=black&left_text=vistors%20%3C3"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nvrlndray.Nvrlndray&left_color=black&right_color=black&left_text=%E2%99%A1%20%E2%89%BD%5E%E2%80%A2%E2%A9%8A%E2%80%A2%5E%E2%89%BC%20%E2%99%A1"  />
 </div>
 
 ###
