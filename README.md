@@ -27,6 +27,8 @@
 
   [straw](https://raysxspikes.straw.page)&nbsp;&nbsp;⸻⸻&nbsp;&nbsp;[Atabook](https://nvrlndray.atabook.org)
 
+###
+
 <p align="center">✟</p>
 
 ###
@@ -39,6 +41,12 @@
 
 <div align="left">
   <img height="200" src="https://64.media.tumblr.com/13548e7dbc5f95de5a674fffd2ae7e86/6592ef2c31429694-14/s1280x1920/220f50a19e2fc7dcdbe50e1608395812f1698416.pnj"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/d2ce6fc063a0bef5b70632d093f9dcee/305a352d0b99ba5d-e7/s100x200/27d595113561c725f6dfeb5bb7627cb9015a8088.gifv"  />
 </div>
 
 ###
