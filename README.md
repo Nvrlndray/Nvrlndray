@@ -1,4 +1,12 @@
 <div align="left">
+  <a href="https://open.spotify.com/user/smhnmzipseab4pybuqav7m93y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smhnmzipseab4pybuqav7m93y&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
   <img height="200" src="https://64.media.tumblr.com/3f95210b8df031f5997ec4a44bfa35c0/6592ef2c31429694-de/s1280x1920/ca07ba90d05e889149b3656c67bf3875638b4997.pnj"  />
 </div>
 
@@ -26,10 +34,6 @@
 <div align="center">
 
   [straw](https://raysxspikes.straw.page)&nbsp;&nbsp;⸻⸻&nbsp;&nbsp;[Atabook](https://nvrlndray.atabook.org)
-
-###
-
-<p align="center">✟</p>
 
 ###
 
