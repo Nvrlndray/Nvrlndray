@@ -32,12 +32,6 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://64.media.tumblr.com/95cf5d4226a3f39683940b5ce5a5d884/c5104faef994b878-da/s250x400/84382a0769b64bd1617c06c9ac69dc2954c590de.gifv"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h3 data-importer="text" align="center">(⸝⸝๑  ̫ ๑⸝⸝⸝)</h3>
