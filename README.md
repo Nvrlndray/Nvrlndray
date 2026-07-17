@@ -64,6 +64,13 @@
   <img data-importer="image" height="300" src="https://i.pinimg.com/originals/91/df/21/91df2138ebfe3c5f2381730f0bb3d4bc.gif"  />
 </div>
 
+<div data-importer="image" align="center">
+  <a href="https://open.spotify.com/user/smhnmzipseab4pybuqav7m93y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smhnmzipseab4pybuqav7m93y&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 ###
 
 <div data-importer="image" align="center">
