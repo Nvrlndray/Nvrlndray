@@ -24,9 +24,11 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
-</div>
+<img data-importer="image" align="left" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+
+###
+
+<img data-importer="image" align="left" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
 
 ###
 
@@ -36,9 +38,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 data-importer="text" align="center">(⸝⸝๑  ̫ ๑⸝⸝⸝)</h3>
 
 ###
+
+<br clear="both">
 
 <p data-importer="text" align="center">⚞ HAI i am Ray-Keith ! ⚟<br><br>erm i don't really know what to put here<br><br>check out my strawpage/Ata book in the links !<br><br>send me gimmicks ! it can be anything i will love it no matter what it is !</p>
 
