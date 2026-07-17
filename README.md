@@ -16,19 +16,27 @@
 
 ###
 
-<img data-importer="image" align="left" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+</div>
 
 ###
 
-<img data-importer="image" align="left" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+</div>
 
 ###
 
-<img data-importer="image" align="left" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+</div>
 
 ###
 
-<img data-importer="image" align="left" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="50" src="https://64.media.tumblr.com/d72b3cd4c1fbbb631aa17100878fb1a2/c5104faef994b878-26/s250x400/d068d01b645265186d3b83afca94d71f58a35e4b.gifv"  />
+</div>
 
 ###
 
