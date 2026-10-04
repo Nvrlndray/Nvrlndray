@@ -52,7 +52,7 @@
 
 <div align="center">
 
-  [straw](https://raysxspikes.straw.page)&nbsp;&nbsp;⸻⸻&nbsp;&nbsp;[Atabook](https://nvrlndray.atabook.org)
+  [straw](https://nvrlndray.straw.page)&nbsp;&nbsp;⸻⸻&nbsp;&nbsp;[Atabook](https://nvrlndray.atabook.org)
 
 
 ###
